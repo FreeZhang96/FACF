@@ -1,3 +1,3 @@
-*.js linguist-language=Matlab
-*.css linguist-language=Matlab
-*.html linguist-language=Matlab
+*.cpp linguist-language=MATLAB
+*.c linguist-language=MATLAB
+*.dll linguist-language=MATLAB
