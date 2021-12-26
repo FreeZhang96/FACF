@@ -2,7 +2,7 @@
 Learning Future-aware Correlation Filter for Efficient UAV Tracking
 
 ## Publication
-Our paper has been accepted by IEEE Signal Processing Letters, which can be found here: https://www.mdpi.com/2072-4292/13/20/4111.
+Our paper has been accepted by Remote Sensing, which can be found here: https://www.mdpi.com/2072-4292/13/20/4111.
 
 ## Results
 ### DTB70
